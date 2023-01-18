@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
