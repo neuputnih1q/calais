@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
