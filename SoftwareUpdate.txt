@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
