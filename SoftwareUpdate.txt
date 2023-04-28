@@ -1,1 +1,1 @@
-update requirements.txt
+Update OpenVINO INT8 export (#7515)
