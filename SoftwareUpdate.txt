@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
