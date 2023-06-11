@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix OpenVINO missing batch-size bug (#9264)
