@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Fix RTDETR generate anchor grid out of boundary (#7247)
