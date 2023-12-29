@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
