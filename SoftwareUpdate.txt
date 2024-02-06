@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix heatmaps width-height order bug (#7184)
