@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update H1 in Explorer API docs (#7813)
