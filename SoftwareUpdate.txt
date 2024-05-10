@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
